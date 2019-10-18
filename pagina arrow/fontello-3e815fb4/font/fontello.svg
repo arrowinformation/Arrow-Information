@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2019 by original authors @ fontello.com</metadata>
+<defs>
+<font id="fontello" horiz-adv-x="1000" >
+<font-face font-family="fontello" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="instagram" unicode="&#xe800;" d="M0-150l0 674 270 0q-26-51-26-109 0-104 73-176t176-73 176 73 73 176q0 58-25 109l283 0 0-674-1000 0z m0 715l0 285 1000 0 0-285-311 0q-74 96-196 96t-196-96l-297 0z m49 45l35 0 0 191q-16-6-25-20t-10-33l0-138z m60 0l36 0 0 197-36 0 0-197z m59 0l35 0 0 197-35 0 0-197z m61 0l33 0 0 197-33 0 0-197z m44-196q0 90 65 155t155 64 155-64 65-155-65-155-155-63-155 63-65 155z m45 1q0-73 51-124t123-50 124 50 52 124-52 123-124 50-123-50-51-123z m422 253q0-23 18-41t43-17l94 0q23 0 41 17t17 41l0 80q0 24-17 42t-41 17l-94 0q-26 0-43-17t-18-42l0-80z" horiz-adv-x="1000" />
+
+<glyph glyph-name="menu" unicode="&#xf0c9;" d="M857 100v-71q0-15-10-25t-26-11h-785q-15 0-25 11t-11 25v71q0 15 11 25t25 11h785q15 0 26-11t10-25z m0 286v-72q0-14-10-25t-26-10h-785q-15 0-25 10t-11 25v72q0 14 11 25t25 10h785q15 0 26-10t10-25z m0 285v-71q0-14-10-25t-26-11h-785q-15 0-25 11t-11 25v71q0 15 11 26t25 10h785q15 0 26-10t10-26z" horiz-adv-x="857.1" />
+
+<glyph glyph-name="facebook-official" unicode="&#xf230;" d="M810 779q19 0 33-14t14-34v-762q0-20-14-34t-33-14h-218v333h111l16 129h-127v83q0 31 13 46t51 16l68 1v115q-35 5-100 5-75 0-121-44t-45-127v-95h-112v-129h112v-333h-411q-19 0-33 14t-14 34v762q0 20 14 34t33 14h763z" horiz-adv-x="857.1" />
+</font>
+</defs>
+</svg>

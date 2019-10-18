@@ -1,0 +1,545 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Num",
+				"Numero"
+			],
+			[
+				"Num_u",
+				"Num_InsuHard"
+			],
+			[
+				"Per",
+				"Persona"
+			],
+			[
+				"Nu",
+				"Numero"
+			],
+			[
+				"N",
+				"Numero"
+			],
+			[
+				"Num_",
+				"Num_InsuSoft"
+			],
+			[
+				"Num_Insu",
+				"Num_InsuHard"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"al",
+				"alternate\tanimation-direction"
+			],
+			[
+				"animation-d",
+				"animation-direction\tproperty"
+			],
+			[
+				"trasn",
+				"transform\tproperty"
+			],
+			[
+				"backgro",
+				"background-color\tproperty"
+			],
+			[
+				"j",
+				"justify-content-center"
+			],
+			[
+				"co",
+				"container-fluid"
+			],
+			[
+				"margin",
+				"margin-bottom\tproperty"
+			],
+			[
+				"background",
+				"background-position\tproperty"
+			],
+			[
+				"pru",
+				"purple-light"
+			],
+			[
+				"bor",
+				"border-top\tproperty"
+			],
+			[
+				"trans",
+				"transform\tproperty"
+			],
+			[
+				"le",
+				"left\tproperty"
+			],
+			[
+				"pu",
+				"purple-light"
+			],
+			[
+				"backgr",
+				"background\tproperty"
+			],
+			[
+				"pur",
+				"purple-light"
+			],
+			[
+				"mar",
+				"margin-top\tproperty"
+			],
+			[
+				"backr",
+				"background-color\tproperty"
+			],
+			[
+				"backg",
+				"background-color\tproperty"
+			],
+			[
+				"tra",
+				"translateY()\ttransform"
+			],
+			[
+				"purp",
+				"purple-medium"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"in",
+				"inline-block\tdisplay"
+			],
+			[
+				"S",
+				"serif"
+			],
+			[
+				"font-",
+				"font-family\tproperty"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"top",
+				"top\tproperty"
+			],
+			[
+				"st",
+				"sticky\tposition"
+			],
+			[
+				"fon",
+				"font-weight\tproperty"
+			],
+			[
+				"back",
+				"background-image\tproperty"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"padi",
+				"padding\tproperty"
+			],
+			[
+				"padin",
+				"padding-left\tproperty"
+			],
+			[
+				"rig",
+				"padding-right\tproperty"
+			],
+			[
+				"pad",
+				"padding\tproperty"
+			],
+			[
+				"h",
+				"height\tproperty"
+			],
+			[
+				"ma",
+				"margin-left\tproperty"
+			],
+			[
+				"l",
+				"list-style\tproperty"
+			],
+			[
+				"c",
+				"class\tAttr"
+			],
+			[
+				"transfo",
+				"transform-style\tproperty"
+			],
+			[
+				"rota",
+				"rotateY()\ttransform"
+			],
+			[
+				"ro",
+				"rotateY()\ttransform"
+			],
+			[
+				"tran",
+				"transform\tproperty"
+			],
+			[
+				"flex",
+				"flex-direction\tproperty"
+			],
+			[
+				"s",
+				"style\tAttr"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"u",
+				"url()\tbackground"
+			],
+			[
+				"backround",
+				"background-attachment\tproperty"
+			],
+			[
+				"padding",
+				"padding\tproperty"
+			],
+			[
+				"border",
+				"border-bottom\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Index.html",
+			"settings":
+			{
+				"buffer_size": 4415,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "producto.html",
+			"settings":
+			{
+				"buffer_size": 2471,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/Estilos.css",
+			"settings":
+			{
+				"buffer_size": 4985,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/alumno/Desktop/pagina arrow/form.html",
+		"/C/Users/nahue/Desktop/pagina arrow/Index.html",
+		"/C/Users/nahue/Desktop/proyecto2do.sql",
+		"/C/Users/nahue/Desktop/pagina arrow/css/Estilos.css",
+		"/C/Users/nahue/Desktop/pagina arrow/Index.sublime-project",
+		"/D/Descargas/pagina mel v2/css/Estilos.css",
+		"/D/Descargas/pagina mel v2/Index.html",
+		"/D/Descargas/pagina mel v2/js/filtro.js",
+		"/D/Descargas/pagina mel v2/js/main.js",
+		"/D/Descargas/pagina mel/index1.html",
+		"/D/Descargas/pagina mel/css/estilo-index.css",
+		"/D/Descargas/pagina mel/css/estilos.css",
+		"/D/Descargas/pagina mel/index.html",
+		"/C/Users/nahue/Desktop/web/css/style.css",
+		"/D/Descargas/pagina mel/Index.html.txt"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\">\n",
+			"stylesheet",
+			"5e0",
+			">\n",
+			" \n",
+			"\t\t\t\t\t",
+			"%;\n",
+			"*/\n",
+			">\n",
+			"bg",
+			"bg-separa",
+			"bg-se",
+			"bg-top.png",
+			"bg-top",
+			"green"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4415,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1833,
+								1859
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 701.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "producto.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2471,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1033,
+								1033
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "css/Estilos.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4985,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4276,
+								4276
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 5075.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Index.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 140.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
